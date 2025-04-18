@@ -139,7 +139,7 @@ https://www.linkedin.com/in/dipakwarade
 For updates, subscribe: 
 https://www.linkedin.com/newsletters/7162546832793927680
 
-## Whats comming
+## Whats comming ?
 - Grading
 - CKA schenarios
 - 4g and 5g deployment labs 
