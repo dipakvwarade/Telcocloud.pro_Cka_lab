@@ -3,9 +3,6 @@ Here's the updated `README.md` based on your Vagrantfile configuration:
 ```markdown
 # Telcocloud.pro Kubernetes Lab Environment
 
-![Kubernetes Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg)
-![Ubuntu Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg)
-
 ## Overview
 A production-like Kubernetes cluster environment built with Vagrant, featuring a 3-node setup with Ubuntu 22.04 (Jammy Jellyfish) and Kubernetes v1.32.3.
 
