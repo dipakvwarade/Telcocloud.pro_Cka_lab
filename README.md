@@ -49,7 +49,7 @@ A production-like Kubernetes cluster environment built with Vagrant, featuring a
 
 1. **Clone and initialize**:
    ```bash
-   git clone https://github.com/telcocloudpro/kubernetes-lab.git
+   git clone git@github.com:dipakvwarade/Telcocloud.pro_Cka_lab.git
    cd kubernetes-lab
    ```
 
